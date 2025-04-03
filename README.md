@@ -37,4 +37,3 @@ PORT=3000
 
 start server:
 npm start
-npm start
