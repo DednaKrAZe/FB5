@@ -31,7 +31,6 @@ npm install
 
 make new .env file:
 SESSION_SECRET=your_random_secret_key_here
-
 PORT=3000
 
 
