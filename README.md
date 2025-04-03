@@ -1,12 +1,10 @@
 copy repo:
 
 git clone https://github.com/your-repo/web-app.git
-
 cd web-app
 
 
 add package.json:
-
 {
   "name": "web-app",
   "version": "1.0.0",
@@ -32,7 +30,6 @@ npm install
 
 
 make new .env file:
-
 SESSION_SECRET=your_random_secret_key_here
 
 PORT=3000
@@ -40,5 +37,5 @@ PORT=3000
 
 
 start server:
-
+npm start
 npm start
